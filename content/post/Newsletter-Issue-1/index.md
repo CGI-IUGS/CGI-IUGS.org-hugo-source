@@ -98,7 +98,7 @@ The [FOSS4G Europe conference](http://foss4g-e.org/) and exhibition will be held
 
 In each newsletter, we will be featuring an innovative geoscience informatics project from around the world.
 
-If you would like to promote your project through CGI, [contact CGI](mailto:CGIsecretariat@mail.cgs.gov.cn) or tell us on the [CGI LinkedIn group](https://www.linkedin.com/groups/6539642).
+If you would like to promote your project through CGI, [contact CGI](mailto:CGIsecretariat@geo-zs.si) or tell us on the [CGI LinkedIn group](https://www.linkedin.com/groups/6539642).
 
 The Australian [Virtual Geophysics Laboratory](https://www.nectar.org.au/virtual-geophysics-laboratory) (VGL) is a scientific workflow web portal that provides geo-physicists with an integrated environment that uses cloud-based data processing applications and high performance computing technology. The VGL is an Australian government funded collaboration between CSIRO, Geoscience Australia, and the Australian National University's National Computational Infrastructure (NCI).
 

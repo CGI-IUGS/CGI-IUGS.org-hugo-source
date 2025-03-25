@@ -45,7 +45,7 @@ Members wishing to stand for election for Council must prepare a letter of appli
 3.  The region(s) they work in and have experience (Africa, Asia & Oceania, North America, Latin & South America, Europe; [http://en.wikipedia.org/wiki/Portal:Geography](http://en.wikipedia.org/wiki/Portal:Geography))
 4.  Identify leadership and participation in collaborative international, regional, or specialist groups relevant to the mandate and operation of CGI.
 5.  The source of funding for travel expenses to attend CGI meetings.
-6.  Send applications to [CGIsecretariat@mail.cgs.gov.cn](mailto:CGIsecretariat@mail.cgs.gov.cn)
+6.  Send applications to [CGIsecretariat@geo-zs.si](mailto:CGIsecretariat@geo-zs.si)
 
 #### Review of Applicants by CGI Council
 
