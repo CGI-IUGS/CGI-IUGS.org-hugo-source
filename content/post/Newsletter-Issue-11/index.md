@@ -31,4 +31,4 @@ projects: ["DDEStandards"]
 # Newsletter | Issue 11 | October 2025
 
 
-»[View this newsletter as a PDF](/docs/2024_CGI_Newsletter_I10.pdf)
+»[View this newsletter as a PDF](/docs/2025_CGI_Newsletter_I11.pdf)
