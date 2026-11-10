@@ -1,3 +1,5 @@
+# ARCHIVED - Development now in https://github.com/CGI-IUGS/cgi-iugs.github.io/
+
 # CGI-IUGS Website (www.cgi-iugs.org)
 
 ## Content
